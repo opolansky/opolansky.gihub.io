@@ -39,3 +39,9 @@ output.xml
 *.0.gz
 *.log
 *.tmp
+
+# jekyll
+_site
+.sass-cache
+Gemfile.lock
+*.gem 
