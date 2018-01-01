@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
+
+  {% include metas.html %}
+  {% include links.html %}
+
+  <link href="/assets/css/page.css" rel="stylesheet">
+
+</head>
+<body class="homepage">
+
+<div id="fb-root"></div>
+
+{% include siteheader.html %}
+
+<div class="site-content">
+
+  <div class="blog-post" style="margin-top: 4rem;">
+    <div class="item" style="max-width: 50rem;margin:auto; text-align: justify;">
+      {{ content }}
+    </div>
+  </div>
+
+</div>
+
+</div>
+
+{% include footer.html %}
+
+
+</body>
+</html>

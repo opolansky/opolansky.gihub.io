@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} – {{ site.title }}</title>
+
+  {% include metas.html %}
+  {% include links.html %}
+
+  <link href="/assets/css/page.css" rel="stylesheet">
+
+  <style type="text/css">
+    .item p:first-child {
+      display: none;
+    }
+  </style>
+
+</head>
+<body class="homepage">
+
+<div id="fb-root"></div>
+
+  {% include siteheader.html %}
+
+  <div class="site-content">
+
+    <h1 style="padding-top: 5px;margin-bottom: 0px;">{{ page.title }}</h1>
+    <span><small>{{page.date | date:"%d. %m. %Y"}} {{page.author}}</small></span>
+    <br/>
+    <br/>
+
+    <div id="perex">
+      <div class="newsletter white nl1">
+        <div class="container">
+          <div class="title">
+
+            {{page.excerpt | markdownify }}
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <br/>
+
+    {% if page.img %}
+    <img class="thumbnail" style="max-width: 50rem;" src="{{page.img | prepend: 'assets/img/posts/' | relative_url}}">
+    <br />
+    {% endif %}
+
+    <div class="blog-post" style="margin-top: 4rem;">
+      <div class="item" style="max-width: 50rem;margin:auto; text-align: justify;">
+        {{ content }}
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+{% include footer.html %}
+
+
+</body>
+</html>
