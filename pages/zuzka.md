@@ -11,6 +11,8 @@ Ahoj, to jsem *já*.
 
 ### Volby 2017
 
+![alt text]({{ '/assets/img/posts/z.jpg' | relative_url }} "Neprostupná Zuzka."){: .thumbnail}
+
 
 ### Osobně
 
