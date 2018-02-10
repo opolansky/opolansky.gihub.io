@@ -6,7 +6,7 @@ categories:   doprava
 img:          2018-02-20-dopravni-infrastruktura.png
 author:       Ondřej Polanský
 ---
-Každý přispěl se svou troškou do mlýna: “Když má předběžná držba platit pro silnice, proč by neměla pro komunikační infrastrukturu?” “Pokud jsou tam uvedeny ropovody, musí tam být i horkovody, na ty jste zapomněli” a podobně. Ze zákona, který původně byl (vím že se už opakuji) záplata na konkrétní akutní problém, se stal vánoční stromeček, na který si každý pověsil, co pokládal za důležité. Bez analýz. Bez předchozí komunikace. 24h před podáním zákona do sněmovny jako oficiálního sněmovního tisku opatřeného důvodovou zprávou (opět asi jsem naivka, ale důvodová zpráva by myslím si měla reflektovat obsah předkládané normy)...
+Každý přispěl se svou troškou do mlýna: “Když má předběžná držba platit pro silnice, proč by neměla pro komunikační infrastrukturu?” “Pokud jsou tam uvedeny ropovody, musí tam být i horkovody, na ty jste zapomněli” a podobně. Ze zákona, který původně byl záplata na konkrétní akutní problém, se stal vánoční stromeček, na který si každý pověsil, co pokládal za důležité. Bez analýz. Bez předchozí komunikace. 24h před podáním zákona do sněmovny jako oficiálního sněmovního tisku opatřeného důvodovou zprávou...
 Zajímá vás, jak se v Česku doopravdy vaří zákony? Povím vám svůj příběh o tolik propírané novele zákon ke zrychlení dopravní infrastruktury.
 <!--more-->
 
@@ -18,7 +18,7 @@ Všechno začalo posledního listopadového týdne. Dostali jsme pozvánku minis
 
 Abych vás nejdříve uvedl do kontextu, v průběhu roku 2017 ministerstvo dopravy představilo světu věcný záměr zákona o liniových stavbách. Měl desítky stran a ve finále se k němu sešly stovky připomínek. A právě tehdy se nejspíš někdo na ministerstvu zalekl množství práce a po cimrmanovsku zvolal “tudy ne, přátelé!”, a zákon šel k ledu.
 
-Místo něj ministerstvo znovuobjevilo zákon 416 z roku 2009, což byl v české legislativě takový prvotní zárodek přemýšlení o rozsáhlých (liniových) stavbách, jehož cílem mělo být urychlení výstavby. No upřímně záměr byl dobrý, ale výsledek se nedostavil... ale snaha se cení. Detaily vynechám a omezím se jen na stručný přehled: zákon umožňoval například sloučit územní a stavební řízení pro dopravní stavby, zkracoval některé lhůty, zjednodušoval zasílání písemností… Přesto, úplně díru do světa neudělal.
+Místo něj ministerstvo znovuobjevilo zákon 416 z roku 2009, což byl v české legislativě takový prvotní zárodek přemýšlení o rozsáhlých (liniových) stavbách, jehož cílem mělo být urychlení výstavby. No upřímně záměr byl dobrý, ale výsledek se nedostavil (snaha se ovšem také cení). Detaily vynechám a omezím se jen na stručný přehled: zákon umožňoval například sloučit územní a stavební řízení pro dopravní stavby, zkracoval některé lhůty, zjednodušoval zasílání písemností… Přesto, úplně díru do světa neudělal.
 
 No a do tohoto zákona ministerstvo nyní připsalo jeden paragraf o tom, že pro některé typy staveb se ruší odkladný účinek proti rozhodnutí o vyvlastnění. Tím by z tohoto zákona podle ministerstva v zásadě vzniklo “skoro něco jako zákon o liniových stavbách” a českým dálnicím by už nic nebránilo v rozkvětu. Tak zněl plán, který nám na oné schůzce 12. prosince pánové předložili.
 
