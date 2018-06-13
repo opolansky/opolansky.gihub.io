@@ -9,7 +9,7 @@ author:       Ondřej Polanský
 V červnu 2017 vypsalo Ministerstvo dopravy tendr na nový mýtný systém. Ten má být lacinější na provoz a pokryje širší území, a proto se vyplatí jít cestou revoluce namísto evoluce, a současný plně zaplacený a funkční systém zahodit. Tento argument ministerstva dopravy má však při bližším zkoumání několik skulin, které se vyplatí detailněji prozkoumat.
 <!--more-->
 
-19. 6. 2017 vypsalo Ministerstvo dopravy tendr na nový mýtný systém (SEM - systém elektronického mýta - zakázka je k nahlédnutí pod číslem Z2017-015974). Stalo se tak proto, že (i přes prodloužení do 31. 12. 2019) vypršel desetiletý kontrakt se společností Kapsch, která systém pro stát (za velmi zjitřené atmosféry v roce 2006) vybudovala a následně také provozovala.  
+Dne 19. 6. 2017 vypsalo Ministerstvo dopravy tendr na nový mýtný systém (SEM - systém elektronického mýta - zakázka je k nahlédnutí pod číslem Z2017-015974). Stalo se tak proto, že (i přes prodloužení do 31. 12. 2019) vypršel desetiletý kontrakt se společností Kapsch, která systém pro stát (za velmi zjitřené atmosféry v roce 2006) vybudovala a následně také provozovala.  
 
 Tendr na nový mýtný systém má být podle ministerstva “technologický neutrální”, což v překladu znamená, že nemusí nutně navazovat na systém současný. Tím se otevřely dveře k tomu, aby byl celý současný mýtný systém, který je funkční, spolehlivý, plně zaplacený a v majetku státu, odepsán a nahrazen systémem úplně novým, což se nakonec skutečně stalo.
 
@@ -36,6 +36,7 @@ Požadavek rozšíření o 900 km je zakotven v zadávací dokumentaci tendru, a
 Projektový manažer ministerstva dopravy zodpovědný za přípravu a průběh současného tendru, společnost Deloitte, vypracoval studii “Posouzení možností výkonového zpoplatnění na nově vybraných úsecích silnic I. třídy”, která posuzuje několik variant rozšíření současně zpoplatněné sítě. V případě varianty 900 km odhaduje dopady na měrné příjmy proti variantě 0 (nerozšiřovat) dokonce na -18,1 %.
 
 Logická otázka tedy zní
+
 - Na základě čeho se tedy ministerstvo dopravy rozhodlo rozšířit zpoplatněnou síť právě o 900 km silnic I. tříd?
 
 ### 3. skutečný regulatorní a finanční efekt zpoplatnění 
