@@ -12,16 +12,16 @@ Nápad využívat potrubní poštu pro dopravu lidí je starý jako tato technol
 Nápad využívat potrubní poštu pro dopravu lidí je starý jako tato technologie sama. Jenže před několika lety (cca 2013) se objevily první společnosti, jejichž předmětem podnikání se stal právě výzkum a vývoj technologie hyperloop. Ve chvíli, kdy se o vývoj technologie začne zajímat komerční společnost, jde o signál, že svůj produkt bude chtít v dohledné době využít obchodně. A to je přesně ten okamžik, kdy bychom měli zpozornět.
 
 
-###Co vlastně je hyperloop?
+### Co vlastně je hyperloop?
 
 Jak již bylo naznačeno výše, jde o koncept transportní technologie založené na pohybu v uzavřeném prostředí systému trubic, kde se kapsle pohybuje bez odporu prostředí, tj. tření vzduchu i valivého odporu podvozku díky absenci atmosféry (vakuová aparatura) a kombinaci magnetického polštáře a lineárního motoru. Alternativní koncepty (Elon Musk), počítají namísto s vakuem s přítomnosti velmi řídké atmosféry, kde by se kapsle pohybovala na vzduchovém polštáři a hnána by byla vzduchovou turbínou umístěnou na přední části kapsle.
 
 Teoreticky dosažitelná rychlost činí 1200 km/h (reálná provozní však bude nižší). To je výrazně více, než cestovní možnosti současných vlaků či letadel. Nicméně mnoho otazníků nadále panuje nad odhadovanou cenou vývoje technologie, konstrukce a pak také provozními náklady.
 
-V současnosti probíhá výstavba testovacích drah pro hyperloop v USA, Číně, Španělsku a Spojených arabských emirátech, v srpnu 2018 bylo při soutěži prototypů v |Kalifornii na zmenšeném modelu vyvinutém na univerzitě v Mnichově dosaženo rekordní rychlosti 467 km/h.
+V současnosti probíhá výstavba testovacích drah pro hyperloop v USA, Číně, Španělsku a Spojených arabských emirátech, v srpnu 2018 bylo při soutěži prototypů v Kalifornii na zmenšeném modelu vyvinutém na univerzitě v Mnichově dosaženo rekordní rychlosti 467 km/h.
 
 
-###Není všechno zlato…
+### Není všechno zlato…
 
 Z výše napsaného by se mohlo zdát, že koncept se ukázal jako životaschopný, a nic již nebrání tomu z hyperloopu udělat dopravní prostředek stejně běžný jako tramvaj nebo letadlo. Jenže není vše zlato co se třpytí. Od modelu je k prototypu velmi daleko, a od prototypu k ostrému provozu ještě dál. Vývoj a testování technologie v laboratorních podmínkách je na hony vzdáleno podmínkám “tam venku.”
 
@@ -34,7 +34,7 @@ Aby bylo možno z hyperloopu vytěžit maximum, bude logická snaha trasu maxim�
 S tím souvisí také otázka bezpečnosti. Na (podpovrchový) tunel pro hyperloop budou kladeny stejné bezpečnostní nároky jako na tunely konvenční železnice či silnice. Po celé délce, v kterémkoliv bodě musí být garantována v případě problémů možnost kapsli rychle a snadno opustit a pasažéry evakuovat. Ať tedy trubice hyperloopu povede na sloupu nad terénem, či hluboko pod terénem, musí být vždy doprovázen evakuačním servisním tunelem a také mechanismem, který umožní kapsli zbrzdit, vakuové (nebo podtlakové) prostředí v daném segmentu rychle odstranit, a porušit konstrukci trubice v místě nouzově zastavené kapsle tak, aby se pasažéři svými silami dokázali z dopravního prostředku dostat bez vynaložení nepřijatelného úsilí na zemský povrch. Hodně štěstí.
 
 
-###Hyperloop kam se podíváš
+### Hyperloop kam se podíváš
 
 Překonáme-li uspokojivě problémy s bezpečností, ihned narazíme na problémy s kapacitou. Kolik pasažérů dokáže najednou převést jedna kapsle? 8? 20? 50? Jaký časový rozestup mezi kapslemi bude minimální bezpečný? Konvenční vlaková souprava pojme řekněme 1200 cestujících, a trasu Praha - Ostrava o délce 356 km zvládne za 3 hodiny při maximální rychlosti 160 km/h. Pusťme fantazii na špacír, a pokusme se odhadnout provozní parametry hyperloopu (které jsou dnes jedním velkým otazníkem). Řekněme, že do kapsle vměstnáme 20 cestujících a minimální časový rozestup dvou kapslí v trubici bude 60 vteřin. Výše zmíněný konvenční vlak bychom tedy dokázali rozpustit do 60 kapslí, a jejich postupné minutové “vypouštění” by zabralo 60 minut, což je kapacita, která by na dané trati nedostačovala už ani dnes. Musely by tedy existovat trubice minimálně dvě v každém směru. V kombinaci s požadavky na bezpečnou evakuaci (výše) složitost a náklady na vybudování této jedné trasy exponenciálně narůstají.
 
@@ -45,7 +45,7 @@ Nechceme-li mít republiku provrtanou jako ementál a hyperloop kam se podívá�
 Představme si jen nároky na udržování takové obří vakuové aparatury; při průměru trubice 2m a její délce 300km se jedná o téměř milion krychlových metrů vakua (pro srovnání, největší současnou vakuovou aparaturou - byť ultra čistou- na světě je dvojice detektorů gravitačních vln LIGO s rameny o délce 4km). Vakuum, popř. podtlak bude potřeba udržovat nikoli v laboratorních, ale v reálných podmínkách. Trubice musí spolehlivě vydržet veškeré teplotní a jiné vlivy, musí být vyřešeno rozpínání a smršťování materiálu, řekněme od 40 °C do -20 °C, od tropických slunečných dnů přes bouřky, náporové větry či zimní plískanice a při tom si uchovat provozuschopnost a stále stejnou míru bezpečnosti.
 
 
-###Je král nahý?
+### Je král nahý?
 
 Rychlosti kolem 1000 km/h budou vyžadovat precizní inženýrskou práci s přesností v řádu mikrometrů, spojené s perfektní odolností proti povětrnostním vlivům či zemětřesení. Také Elonem Muskem avizované třicetivtetřinové intervaly mezi jednotlivými kapslemi budou těžko slučitelné s bezpečnostními opatřeními při rychlostech překračujících 1000 km/h.
 
@@ -56,7 +56,7 @@ Zpráva z loňského roku, že vedení města Brna podepsalo memorandum o spolup
 Vysokorychlostní železnice bude příštích 100 let páteří osobní dopravy nejen v ČR, ale také v Evropě - ať se nám to líbí nebo ne. Západní Evropa je již dnes touto sítí protkána, a začíná se projevovat, kolik výhod oproti např. dopravě letecké nabízí. Spojené státy americké jsou na tom hůř, díky rozvinuté letecké přepravě neexistoval tlak na investice do vysokorychlostní železnice, a tak tomu zůstalo dodnes. A přesně ve chvíli, kdy se tato otázka znovu sama otevírá, objeví se hyperloop, který má potenciál většinový názor zvrátit do směru “tak si teda ještě počkáme.” Že to bude vícegenerační čekání na Godota se za pár desítek let projeví naplno. Jediným beneficentem z takového výsledku budou... letecké společnosti. Náhoda?
 
 
-###I had a dream...
+### I had a dream...
 
 Jako technologickému nadšenci se mi to neříká snadno, ale v případě hyperloopu jsme se nechali napálit. Pokud chceme ještě za vlastního života ochutnat komfort cestování 21. století, je třeba ponechat hyperloop generaci našich vnuků, a koncentrovat se plně rozvoj VRT (především) ve východní Evropě. To jediné nám nabízí reálnou možnost přepravit se z centra jednoho evropského města do centra jiného města vzdáleného 1000 km za 3 hodiny.
 
