@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Strategický podnik nebo strategická přátelství? Ondřeje Polanský o kritériích státní podpory"
+title:        "Strategický podnik nebo strategická přátelství? Zamyšlení o kritériích státní podpory"
 date:         2020-06-19 10:00:00 +0100
 categories:   doprava
 img:          headshot_statni_akta.jpg
