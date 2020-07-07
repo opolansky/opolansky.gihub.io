@@ -3,7 +3,7 @@ layout:       post
 title:        "Ještě k problematice železničních přejezdů"
 date:         2020-03-05 16:00:00 +0100
 categories:   doprava
-img:          2018-06-29-zakon-416.jpg
+img:          zeleznicni-prejezd.jpg
 author:       Ondřej Polanský
 ---
 Nedávno na Pirátských listech vyšel článek o tom, že Správa železnic nedostatečně investuje do zabezpečení železničních přejezdů. Inspirovalo mě to k sepsání tohoto článku, ve kterém se pokusím popsat, co vše se ve prospěch vyšší bezpečnosti na přejezdech děje již dnes a proč se závěry původního článku mohu souhlasit pouze částečně.
