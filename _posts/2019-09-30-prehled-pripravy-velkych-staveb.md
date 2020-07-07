@@ -3,7 +3,7 @@ layout:       post
 title:        "Velké dopravní stavby pod vedením hnutí ANO váznou. Čtyři ze šesti městských okruhů se letos nezahájí podle plánu"
 date:         2019-09-30 16:00:00 +0100
 categories:   doprava
-img:          mestsky-okruh-stavba.jpeg
+img:          mestsky-okruh-stavba.jpg
 author:       Ondřej Polanský
 ---
 Jak to vypadá s přípravou velkých dopravních staveb v Česku? Vláda dnes projednala materiál „Přehled investorské přípravy dopravních staveb s cenou nad 300 milionů korun“, který připomíná festival odložených snů. Především situaci se stavbou obchvatů bych označil doslova za debakl. Ani po pěti letech, kdy Ministerstvo dopravy ČR vede vládní hnutí ANO a má tzv. klid na práci, se situace nelepší. Výsledkem je bohužel to, že čtyři ze šesti městských okruhů se letos nezahájí podle plánu. Louny, Chrudim, Havlíčkův Brod i Karviná si na tolik očekávaný odklon dopravy z města ještě pár let počkají.
