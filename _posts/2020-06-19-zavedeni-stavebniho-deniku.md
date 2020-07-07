@@ -1,9 +1,9 @@
 ---
 layout:       post
-title:        "Omezení korupce i průtahů při stavbě dálnic: Piráti ve Sněmovně prosadili elektronický stavební deník"
+title:        "Omezení korupce i průtahů při stavbě dálnic: prosadili jsme elektronický stavební deník"
 date:         2020-06-19 16:00:00 +0100
 categories:   doprava, elektronický stavební deník
-img:          headshot_namesti.jpg
+img:          elektronicky-stavebni-denik.jpg
 author:       Ondřej Polanský
 ---
 Piráti slaví úspěch. Sněmovnou dnes prošel návrh zákona o urychlení výstavby infrastruktury, jehož součástí je i pirátský návrh na zavedení elektronického stavebního deníku. Ten budou nově muset vést všichni dodavatelé stavebních prací u všech staveb zadávaných jako nadlimitní veřejné zakázky placené z veřejných peněz. Piráti si od změny slibují zefektivnění, zrychlení a centralizaci kontroly stavebních prací.
