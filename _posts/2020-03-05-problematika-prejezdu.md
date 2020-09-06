@@ -6,7 +6,7 @@ categories:   doprava
 img:          zeleznicni-prejezd.jpg
 author:       Ondřej Polanský
 ---
-Nedávno na Pirátských listech vyšel článek o tom, že Správa železnic nedostatečně investuje do zabezpečení železničních přejezdů. Inspirovalo mě to k sepsání tohoto článku, ve kterém se pokusím popsat, co vše se ve prospěch vyšší bezpečnosti na přejezdech děje již dnes a proč se závěry původního článku mohu souhlasit pouze částečně.
+Nedávno na Pirátských listech [vyšel článek](https://www.piratskelisty.cz/clanek-2924-zbynek-janoska-nehodovost-na-prejezdech-neklesa-v-mistech-castych-nehod-se-investuje-nedostatecne) o tom, že Správa železnic nedostatečně investuje do zabezpečení železničních přejezdů. Inspirovalo mě to k sepsání tohoto článku, ve kterém se pokusím popsat, co vše se ve prospěch vyšší bezpečnosti na přejezdech děje již dnes a proč se závěry původního článku mohu souhlasit pouze částečně.
 
 <!--more-->
 
@@ -42,7 +42,7 @@ Technická opatření mají tedy své limity, především ve své ekonomické s
 
 ![alt text]({{ '/assets/img/posts/prejezdy-stare.jpg' | relative_url }} "Nevyhovující železniční přejezdy"){: .thumbnail}
 
-Lze také najít nemálo míst v České republice, jako je třeba toto u Černého Kříže, kde jsou koncentrovány hned tři železniční přejezdy - a všechny úplně zbytečně.
+Lze také najít nemálo míst v České republice, jako je třeba toto u [Černého Kříže](https://en.mapy.cz/zakladni?x=13.8965462&y=48.8540781&z=19&base=ophoto), kde jsou koncentrovány hned tři železniční přejezdy - a všechny úplně zbytečně.
 
 ![alt text]({{ '/assets/img/posts/cerny-kriz.jpg' | relative_url }} "Zbytečné přejezdy u Černého Kříže"){: .thumbnail}
 
