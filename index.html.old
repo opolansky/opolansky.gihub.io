@@ -1,0 +1,125 @@
+---
+layout: main
+---
+
+<div style="min-height: 50px;"></div>
+
+<!--<div class="blog-post">-->
+    <!--<div class="item" style="max-width: 50rem;margin:auto;">-->
+        <!--<a href="chrante-lidi-pred-sikanou">-->
+            <!--<table>-->
+                <!--<tr>-->
+                    <!--<td>-->
+                        <!--<div class="image" style="min-width: 20rem">-->
+                            <!--<img src="/img/ferjencik.jpg" alt="">-->
+                        <!--</div>-->
+                    <!--</td>-->
+                    <!--<td>-->
+                        <!--<div class="title" style="padding-left: 1em;">-->
+                            <!--<h3 style="margin-bottom: .5em;">Pusťte na&nbsp;ně Piráty a&nbsp;chraňte lidi před&nbsp;šikanou</h3>-->
+                            <!--<span class="author">Zrušíme EET pro&nbsp;živnostníky - k&nbsp;čemu má malíř pokojů online hlásit tržbu? Proč nemá daňová správa&nbsp;call centrum jako banka? Proč v&nbsp;internetové době neobíhají data, ale lidé po&nbsp;úřadech?</span>-->
+                        <!--</div>-->
+                    <!--</td>-->
+                <!--</tr>-->
+            <!--</table>-->
+            <!--<div class="more" style="margin-top: .5em;">-->
+                <!--<a class="btn btn-default btn-block" href="chrante-lidi-pred-sikanou">Chci vědět víc</a>-->
+            <!--</div>-->
+        <!--</a>-->
+    <!--</div>-->
+<!--</div>-->
+
+{% for post in paginator.posts %}
+
+<div class="blog-post" style="margin-top: 4rem;">
+    <div class="item" style="max-width: 50rem;margin:auto;">
+        <a href="{{site.baseurl}}{{post.url}}">
+            <table>
+                <tr>
+                    <td>
+                        <div class="image" style="min-width: 20rem">
+                            <img class="thumbnail" style="max-height: 230px;" src="{{post.img | prepend: 'assets/img/posts/' | relative_url}}" alt="">
+                        </div>
+                    </td>
+                    <td>
+                        <div class="title" style="padding-left: 1em;">
+                            <h3 style="margin-bottom: .1em;">{{post.title}}</h3>
+                            <small style="padding-top: .1em;">{{post.date | date:"%d. %m. %Y"}}, {{post.author}}</small>
+                            <span class="author" style="font-size: smaller; text-align: justify">{{post.excerpt | markdownify }}</span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <div class="more" style="margin-top: .5em;">
+                <a class="btn btn-default btn-block" href="{{site.baseurl}}{{post.url}}">Chci vědět víc</a>
+            </div>
+        </a>
+    </div>
+</div>
+
+<!--<div class="blog-post">-->
+    <!--<a href="{{site.baseurl}}{{post.url}}"><h2 class="bottompadding">{{post.title}}</h2></a>-->
+    <!--<div class="row">-->
+        <!--<div class="large-6 columns imagebox">-->
+            <!--<img class="thumbnail" src="{{post.img | prepend: 'assets/img/posts/' | relative_url}}">-->
+        <!--</div>-->
+        <!--<div class="large-6 columns textbox">-->
+            <!--<div class="text-justify bottompadding">-->
+                <!--{{post.excerpt | markdownify }}-->
+            <!--</div>-->
+            <!--&lt;!&ndash;<div class="clearfix date-author">&ndash;&gt;-->
+            <!--<div class="row date-author">-->
+                <!--&lt;!&ndash;<div class="float-left">&ndash;&gt;-->
+                <!--<div class="small-6 columns">-->
+                    <!--<a href="{{site.baseurl}}{{post.url}}">Číst dále</a>-->
+                <!--</div>-->
+                <!--&lt;!&ndash;<div  class="float-right">&ndash;&gt;-->
+                <!--<div class="small-6 columns text-right">-->
+                    <!--<small>{{post.date | date:"%d. %m. %Y"}}, {{post.author}}-->
+                    <!--</small>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
+<!--</div>-->
+<!--<hr/>-->
+
+{% endfor %}
+
+<div style="margin-top: 4em;"></div>
+
+<ul class="pagination text-center" role="navigation" aria-label="Pagination">
+    {% if paginator.page == 1 %}
+    <li class="pagination-previous disabled">Předchozí</li>
+    {% else %}
+    <li class="pagination-previous">
+        <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" aria-label="Previous page">Předchozí</a>
+    </li>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+    <li {% if page== paginator.page %} class="current" {% endif %}>
+        {% if page == paginator.page %}
+        {{ forloop.index }}
+        {% else %}
+        {% if forloop.index == 1 %}
+        <a href="{{ site.baseurl }}/" aria-label="Page {{ forloop.index }}"></a>
+            {% else %}
+            <a href="{{ site.baseurl }}/stranka/{{forloop.index}}/" aria-label="Page {{ forloop.index }}">
+                {% endif %}
+                {{ forloop.index }}</a>
+            {% endif %}
+    </li>
+    {% endfor %}
+
+
+    {% if paginator.page == paginator.total_pages %}
+    <li class="pagination-next disabled">Další</li>
+    {% else %}
+    <li class="pagination-next">
+        <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" aria-label="Next page">Další</a>
+    </li>
+    {% endif %}
+</ul>
+
+{% assign site.posts = paginator.posts %}
